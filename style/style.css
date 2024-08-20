@@ -68,9 +68,9 @@ html{
     
 }
 .banner-content button{
-    padding: 15px;
-    font-size: 20px;
-    font-weight: 600;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 400;
     letter-spacing: 3px;
     border: 5px solid black;
     border-image: linear-gradient(var(--blue-500),var(--blue-600),var(--blue-700),var(--blue-800),var(--blue-900));
@@ -78,7 +78,7 @@ html{
     text-transform: uppercase;
     background-color: transparent;
     color: #3618a5;
-    margin: 15px;
+    margin: 10px;
 }
 main{
     width: 100%;
