@@ -22,7 +22,7 @@ html{
 }
 .banner{
     width: 100%;
-    background-image: linear-gradient(#00000006, #4518a5b4, #00000006), url(../assets/images/banner.png);
+    background-image: linear-gradient(#00000006, #1826a5b4, #00000006), url(../assets/images/banner.png);
     background-size: cover;
     height: 100vh;
     padding: 50px;
@@ -52,7 +52,7 @@ html{
 .banner-content h1{
     font-family: var(--fontEmphasis);
     margin: auto;
-    color: #7649ff;
+    color: #3e3bff;
     text-transform: uppercase;
     margin: 10px;
     font-weight: 900;
@@ -77,7 +77,7 @@ html{
     border-image-slice: 10;
     text-transform: uppercase;
     background-color: transparent;
-    color: #3618a5;
+    color: #1821a5;
     margin: 10px;
 }
 main{
@@ -113,7 +113,7 @@ main{
     background-color: var(--blue-700);
     border: 2px solid var(--blue-900);
     border-radius: 20px;
-    box-shadow: inset -5px 6px 6px #5c54ff69;
+    box-shadow: inset -5px 6px 6px #2836fc69;
 }
 #course-content .module span{
     color: #1808f2;
@@ -163,7 +163,7 @@ footer{
     height: auto;
     text-align: center;
     font-family: var(--fontStandard);
-    background-image: linear-gradient( #00000050, #3218a550 );
+    background-image: linear-gradient( #00000050, #1a18a550 );
 
 }
 footer img{
